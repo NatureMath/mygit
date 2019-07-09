@@ -1,2 +1,6 @@
 one
+<<<<<<< HEAD
 edit by linux
+=======
+edit by winn
+>>>>>>> c73a3aae8e495561c6589070cdffae02690e968d
